@@ -1,0 +1,1 @@
+A powerful framework that leverages GWT, Spring, Hibernate and other technologies.
